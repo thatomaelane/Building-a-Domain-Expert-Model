@@ -1,4 +1,5 @@
 Project Introduction
+
 Imagine you are an AI engineer. Your team is exploring innovative ways to enhance customer experience and streamline information delivery. You've been entrusted by your boss to develop a proof of concept (POC) for a domain expert model. This model will be trained on a dataset of domain-specific knowledge (finance, medical, or IT domain knowledge). The model can then be used to create chat applications, internal knowledge applications, or text content generation for company collateral.
 
 Project Objective
@@ -25,6 +26,7 @@ Insights into domain-specific language model training.
 Practical application of AI in solving real-world business challenges.
 
 Project Summary
+
 Configure your AWS Sagemaker resources
 Using Python and the Sagemaker API:
 Deploy the Meta Llama 2 7B foundation model on the AWS platform
