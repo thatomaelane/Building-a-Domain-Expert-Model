@@ -24,7 +24,7 @@ Familiarity with Python and Sagemaker SDK.
 
 ## Project Steps
 
-1.Configure AWS Sagemaker Resources
+1. ### Configure AWS Sagemaker Resources
 
  . Set up S3 buckets for data storage.
 
@@ -32,13 +32,13 @@ Familiarity with Python and Sagemaker SDK.
 
  . Launch a Sagemaker notebook instance or Studio environment.
 
-2.Deploy the Meta Llama 2 7B Foundation Model
+2. ### Deploy the Meta Llama 2 7B Foundation Model
 
  . Use the Sagemaker API to deploy the model.
 
  . Test the base model for general text generation.
 
-3.Fine-Tune the Model
+3. ### Fine-Tune the Model
 
  . Choose a domain-specific dataset (Finance, Medical, or IT).
 
@@ -46,19 +46,19 @@ Familiarity with Python and Sagemaker SDK.
 
  . Fine-tune the model using the Sagemaker API.
 
-4.Evaluate the Model
+4. ### Evaluate the Model
 
  . Test the fine-tuned model for accuracy and domain relevance.
 
  . Compare responses with the base model to assess improvement.
 
-5.Deploy and Test the Fine-Tuned Model
+5. ### Deploy and Test the Fine-Tuned Model
 
  . Deploy the fine-tuned model.
 
  . Validate its performance on real-world domain-specific queries.
 
-6.Document and Submit
+6. ### Document and Submit
 
  . Prepare project documentation.
 
