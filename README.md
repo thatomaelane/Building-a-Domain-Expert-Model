@@ -1,10 +1,10 @@
-##Fine-Tuning a Domain Expert Language Model with Meta Llama 2 7B
+## Fine-Tuning a Domain Expert Language Model with Meta Llama 2 7B
 
-#Project Overview
+# Project Overview
 
 This project aims to fine-tune the Meta Llama 2 7B foundation model to create a domain expert language model. The resulting model will be capable of generating accurate and contextually relevant responses within a specific domain (Finance, Medical, or IT). This is an essential step in building intelligent chat applications, internal knowledge systems, or automated content generation tools for businesses.
 
-#Project Objectives
+# Project Objectives
 
 Deploy the Meta Llama 2 7B foundation model on AWS Sagemaker.
 
@@ -14,7 +14,7 @@ Test and evaluate the fine-tuned model for domain-specific text generation.
 
 Document the process and present the findings.
 
-#Prerequisites
+# Prerequisites
 
 AWS account with Sagemaker access.
 
@@ -22,7 +22,7 @@ Basic knowledge of machine learning and natural language processing.
 
 Familiarity with Python and Sagemaker SDK.
 
-#Project Steps
+# Project Steps
 
 1.Configure AWS Sagemaker Resources
 
@@ -64,7 +64,7 @@ Familiarity with Python and Sagemaker SDK.
 
  . Submit the final project for review.
 
-#Expected Deliverables
+# Expected Deliverables
 
 Fine-tuned domain expert model.
 
@@ -72,7 +72,7 @@ Evaluation report on model performance.
 
 Presentation slides detailing the project process and findings.
 
-#Getting Started
+# Getting Started
 
 To run this project locally or on AWS, ensure you have:
 
@@ -82,15 +82,15 @@ AWS CLI configured with appropriate permissions.
 
 Required Python libraries: boto3, sagemaker, numpy, pandas.
 
-#License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for any enhancements or fixes.
 
-#Contact
+# Contact
 
 For any questions or feedback, reach out to the project maintainer at thato6216@gmail.com .
 
