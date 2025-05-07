@@ -1,4 +1,4 @@
-## Fine-Tuning a Domain Expert Language Model with Meta Llama 2 7B
+### Fine-Tuning a Domain Expert Language Model with Meta Llama 2 7B
 
 # Project Overview
 
