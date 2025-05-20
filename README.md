@@ -99,10 +99,6 @@ AWS CLI configured with appropriate permissions.
 
 Required Python libraries: boto3, sagemaker, numpy, pandas.
 
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 
 # Contact
 
